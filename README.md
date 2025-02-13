@@ -15,6 +15,7 @@ A seguir, alguns aprendizados e observações após a análise das sentenças:
 <p align="center">
   <img src="https://github.com/RLC02/Studio-no-Azure-AI/blob/main/Prints/Captura%20de%20tela%202025-02-13%20114927.png?raw=true" />
   <img src="https://github.com/RLC02/Studio-no-Azure-AI/blob/main/Prints/Captura%20de%20tela%202025-02-13%20115949.png?raw=true" />
+  <img src="https://github.com/RLC02/Studio-no-Azure-AI/blob/main/Prints/Captura%20de%20tela%202025-02-13%20123101.png?raw=true" />
 </p>
 
 ## 📌 Conclusão
